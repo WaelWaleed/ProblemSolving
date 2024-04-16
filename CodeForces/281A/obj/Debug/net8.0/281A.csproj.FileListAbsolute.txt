@@ -1,0 +1,14 @@
+D:\Problem Solving\CodeForces\281A\bin\Debug\net8.0\281A.exe
+D:\Problem Solving\CodeForces\281A\bin\Debug\net8.0\281A.deps.json
+D:\Problem Solving\CodeForces\281A\bin\Debug\net8.0\281A.runtimeconfig.json
+D:\Problem Solving\CodeForces\281A\bin\Debug\net8.0\281A.dll
+D:\Problem Solving\CodeForces\281A\bin\Debug\net8.0\281A.pdb
+D:\Problem Solving\CodeForces\281A\obj\Debug\net8.0\281A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\CodeForces\281A\obj\Debug\net8.0\281A.AssemblyInfoInputs.cache
+D:\Problem Solving\CodeForces\281A\obj\Debug\net8.0\281A.AssemblyInfo.cs
+D:\Problem Solving\CodeForces\281A\obj\Debug\net8.0\281A.csproj.CoreCompileInputs.cache
+D:\Problem Solving\CodeForces\281A\obj\Debug\net8.0\281A.dll
+D:\Problem Solving\CodeForces\281A\obj\Debug\net8.0\refint\281A.dll
+D:\Problem Solving\CodeForces\281A\obj\Debug\net8.0\281A.pdb
+D:\Problem Solving\CodeForces\281A\obj\Debug\net8.0\281A.genruntimeconfig.cache
+D:\Problem Solving\CodeForces\281A\obj\Debug\net8.0\ref\281A.dll
