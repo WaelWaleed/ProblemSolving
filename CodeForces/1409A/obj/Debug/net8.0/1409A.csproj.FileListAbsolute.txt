@@ -1,0 +1,14 @@
+D:\Problem Solving\CodeForces\1409A\obj\Debug\net8.0\1409A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\CodeForces\1409A\obj\Debug\net8.0\1409A.AssemblyInfoInputs.cache
+D:\Problem Solving\CodeForces\1409A\obj\Debug\net8.0\1409A.AssemblyInfo.cs
+D:\Problem Solving\CodeForces\1409A\obj\Debug\net8.0\1409A.csproj.CoreCompileInputs.cache
+D:\Problem Solving\CodeForces\1409A\bin\Debug\net8.0\1409A.exe
+D:\Problem Solving\CodeForces\1409A\bin\Debug\net8.0\1409A.deps.json
+D:\Problem Solving\CodeForces\1409A\bin\Debug\net8.0\1409A.runtimeconfig.json
+D:\Problem Solving\CodeForces\1409A\bin\Debug\net8.0\1409A.dll
+D:\Problem Solving\CodeForces\1409A\bin\Debug\net8.0\1409A.pdb
+D:\Problem Solving\CodeForces\1409A\obj\Debug\net8.0\1409A.dll
+D:\Problem Solving\CodeForces\1409A\obj\Debug\net8.0\refint\1409A.dll
+D:\Problem Solving\CodeForces\1409A\obj\Debug\net8.0\1409A.pdb
+D:\Problem Solving\CodeForces\1409A\obj\Debug\net8.0\1409A.genruntimeconfig.cache
+D:\Problem Solving\CodeForces\1409A\obj\Debug\net8.0\ref\1409A.dll
