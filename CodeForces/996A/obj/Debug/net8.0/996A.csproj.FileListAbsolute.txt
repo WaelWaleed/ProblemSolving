@@ -1,0 +1,14 @@
+D:\Problem Solving\CodeForces\996A\bin\Debug\net8.0\996A.exe
+D:\Problem Solving\CodeForces\996A\bin\Debug\net8.0\996A.deps.json
+D:\Problem Solving\CodeForces\996A\bin\Debug\net8.0\996A.runtimeconfig.json
+D:\Problem Solving\CodeForces\996A\bin\Debug\net8.0\996A.dll
+D:\Problem Solving\CodeForces\996A\bin\Debug\net8.0\996A.pdb
+D:\Problem Solving\CodeForces\996A\obj\Debug\net8.0\996A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\CodeForces\996A\obj\Debug\net8.0\996A.AssemblyInfoInputs.cache
+D:\Problem Solving\CodeForces\996A\obj\Debug\net8.0\996A.AssemblyInfo.cs
+D:\Problem Solving\CodeForces\996A\obj\Debug\net8.0\996A.csproj.CoreCompileInputs.cache
+D:\Problem Solving\CodeForces\996A\obj\Debug\net8.0\996A.dll
+D:\Problem Solving\CodeForces\996A\obj\Debug\net8.0\refint\996A.dll
+D:\Problem Solving\CodeForces\996A\obj\Debug\net8.0\996A.pdb
+D:\Problem Solving\CodeForces\996A\obj\Debug\net8.0\996A.genruntimeconfig.cache
+D:\Problem Solving\CodeForces\996A\obj\Debug\net8.0\ref\996A.dll
