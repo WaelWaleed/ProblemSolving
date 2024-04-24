@@ -1,0 +1,13 @@
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\readFileTest\bin\Debug\netcoreapp3.1\readFileTest.exe
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\readFileTest\bin\Debug\netcoreapp3.1\readFileTest.deps.json
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\readFileTest\bin\Debug\netcoreapp3.1\readFileTest.runtimeconfig.json
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\readFileTest\bin\Debug\netcoreapp3.1\readFileTest.runtimeconfig.dev.json
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\readFileTest\bin\Debug\netcoreapp3.1\readFileTest.dll
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\readFileTest\bin\Debug\netcoreapp3.1\readFileTest.pdb
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\readFileTest\obj\Debug\netcoreapp3.1\readFileTest.csproj.AssemblyReference.cache
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\readFileTest\obj\Debug\netcoreapp3.1\readFileTest.AssemblyInfoInputs.cache
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\readFileTest\obj\Debug\netcoreapp3.1\readFileTest.AssemblyInfo.cs
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\readFileTest\obj\Debug\netcoreapp3.1\readFileTest.csproj.CoreCompileInputs.cache
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\readFileTest\obj\Debug\netcoreapp3.1\readFileTest.dll
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\readFileTest\obj\Debug\netcoreapp3.1\readFileTest.pdb
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\readFileTest\obj\Debug\netcoreapp3.1\readFileTest.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\Hemispherical Tank\bin\Debug\netcoreapp3.1\Hemispherical Tank.exe
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\Hemispherical Tank\bin\Debug\netcoreapp3.1\Hemispherical Tank.deps.json
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\Hemispherical Tank\bin\Debug\netcoreapp3.1\Hemispherical Tank.runtimeconfig.json
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\Hemispherical Tank\bin\Debug\netcoreapp3.1\Hemispherical Tank.runtimeconfig.dev.json
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\Hemispherical Tank\bin\Debug\netcoreapp3.1\Hemispherical Tank.dll
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\Hemispherical Tank\bin\Debug\netcoreapp3.1\Hemispherical Tank.pdb
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\Hemispherical Tank\obj\Debug\netcoreapp3.1\Hemispherical Tank.csproj.AssemblyReference.cache
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\Hemispherical Tank\obj\Debug\netcoreapp3.1\Hemispherical Tank.AssemblyInfoInputs.cache
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\Hemispherical Tank\obj\Debug\netcoreapp3.1\Hemispherical Tank.AssemblyInfo.cs
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\Hemispherical Tank\obj\Debug\netcoreapp3.1\Hemispherical Tank.csproj.CoreCompileInputs.cache
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\Hemispherical Tank\obj\Debug\netcoreapp3.1\Hemispherical Tank.dll
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\Hemispherical Tank\obj\Debug\netcoreapp3.1\Hemispherical Tank.pdb
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\Hemispherical Tank\obj\Debug\netcoreapp3.1\Hemispherical Tank.genruntimeconfig.cache

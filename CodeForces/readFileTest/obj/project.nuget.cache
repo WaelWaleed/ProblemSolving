@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mGYDxZ8QlD1uz0omtd1j2AFex0Dv/ccPDZ8Z/2pwCrQOwjQ0/HpJpinbBdtKhniChLALPb1UpADztEANZhkgIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Waelw\\OneDrive\\Desktop\\codeForcesPY\\readFileTest\\readFileTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Waelw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
