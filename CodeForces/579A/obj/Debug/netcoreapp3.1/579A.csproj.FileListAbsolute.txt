@@ -1,0 +1,13 @@
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\579A\bin\Debug\netcoreapp3.1\579A.exe
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\579A\bin\Debug\netcoreapp3.1\579A.deps.json
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\579A\bin\Debug\netcoreapp3.1\579A.runtimeconfig.json
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\579A\bin\Debug\netcoreapp3.1\579A.runtimeconfig.dev.json
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\579A\bin\Debug\netcoreapp3.1\579A.dll
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\579A\bin\Debug\netcoreapp3.1\579A.pdb
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\579A\obj\Debug\netcoreapp3.1\579A.csproj.AssemblyReference.cache
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\579A\obj\Debug\netcoreapp3.1\579A.AssemblyInfoInputs.cache
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\579A\obj\Debug\netcoreapp3.1\579A.AssemblyInfo.cs
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\579A\obj\Debug\netcoreapp3.1\579A.csproj.CoreCompileInputs.cache
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\579A\obj\Debug\netcoreapp3.1\579A.dll
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\579A\obj\Debug\netcoreapp3.1\579A.pdb
+C:\Users\Waelw\OneDrive\Desktop\codeForcesPY\579A\obj\Debug\netcoreapp3.1\579A.genruntimeconfig.cache
