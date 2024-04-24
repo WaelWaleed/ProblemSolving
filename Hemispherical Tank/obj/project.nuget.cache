@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ErLf0/KCkil0BPHL4+TbyhOszHI/rB0O4b2VjNabqWSebHsZZGEcfo40UwxRDup8YXQCJygzQkV6FIjPxRLenw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Waelw\\OneDrive\\Desktop\\codeForcesPY\\Hemispherical Tank\\Hemispherical Tank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Waelw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
